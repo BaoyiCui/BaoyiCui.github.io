@@ -14,7 +14,7 @@ baseurl: ""
 username: BaoyiCui
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: A Ph.D. candidate in Control Science and Engineering.
 # email: Your E-Mail address for the email button.
 email: dfswer2020@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hello, I am XXX, a Ph.D. candidate in the Department of Control Science and Engineering at the School of Mechanical Engineering and Automation, Harbin Institute of Technology (Shenzhen). I am grateful for the opportunity to work under the guidance of Prof. Guangfu Ma in the Multi-Agent System Lab (https://hitsz-mas.github.io/mas-lab-website/).
+about_me_description: Hello, I am Baoyi Cui, a Ph.D. candidate in the Department of Control Science and Engineering at the School of Mechanical Engineering and Automation, Harbin Institute of Technology (Shenzhen). I am grateful for the opportunity to work under the guidance of Prof. Guangfu Ma in the Multi-Agent System Lab (https://hitsz-mas.github.io/mas-lab-website/).
   My research interests lie in the fields of multi-agent systems, game theory, and reinforcement learning. I am captivated by the complexity and potential of intelligent systems and their ability to cooperate and compete. My passion is to explore and understand these systems, as well as contribute my findings to the growing body of knowledge in this area.
   I am always open to collaborations and engaging conversations about my research. Feel free to connect with me for any potential research opportunities or simply to discuss the fascinating world of multi-agent systems and reinforcement learning.
 
